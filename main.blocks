@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="%YD1HCw+{q]JBdI6!p+N" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_while" id="[?J2E0{s/XMx0??Vg$Z-"><value name="COND"><shadow type="logic_boolean" id="IoP{/)v^`|$*2pu{oy$+"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="gW{x61{hQW6H0nIv[l~@"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="|GL7P(9-5GWx.0mMlq)n"><value name="pause"><shadow type="timePicker" id="R8EX}bw++RB(Xt@-K=)1"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id="4{o,B4zIJ51?7!2e$5AA"><field name="i">IconNames.SmallDiamond</field><next><block type="device_pause" id="B==S,~56VY?zQh:)dGIt"><value name="pause"><shadow type="timePicker" id="YaZOp3!A/{*!Mh]e}XR7"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id="#{Qd_URKU~t%tdNPemLr"><field name="i">IconNames.Diamond</field><next><block type="device_pause" id="*#B94`8#?xOZ+4r~}zrE"><value name="pause"><shadow type="timePicker" id="Y0{,xnyx#SyoMD-;mi{%"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="X]YV.yze]/hu*/kW`!ws"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="uB6,2`6/JL+GC@Ah,U$/"><value name="pause"><shadow type="timePicker" id="GQ1:RoC7?p7e+W1ZwU-h"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="#O6dYhG1WTykjIHY414$"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="AZY@=5ES#RF*4.m_6tav"><value name="pause"><shadow type="timePicker" id="($Cblr4,{oX+9f`D9RAf"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="2Z*Zh@n#Yb*zA+d0*tHQ"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id=";(xnbKey+t^sai_-sxpD"><value name="pause"><shadow type="timePicker" id=".-zbTQKi|r^FZ^8ZGCa9"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="uWDmdWE@[{r6!c#`Awm8"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id=",!Dal^s}*y7cRm6=_~Lk"><value name="pause"><shadow type="timePicker" id="ZY1-mwO(ii!wONM!Y,+X"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id="}]DLlH/G+L~,UJ$~rJ]r"><field name="i">IconNames.Diamond</field><next><block type="device_pause" id="u|pJov3C{x_Ik?ku7nb/"><value name="pause"><shadow type="timePicker" id="{=1@@,bBPRcG^HvXPPTm"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id="62,RQKP??{32LzkG.uS|"><field name="i">IconNames.SmallDiamond</field><next><block type="device_pause" id="$VVP[SPwLt@#Z:I/3__:"><value name="pause"><shadow type="timePicker" id="uPT6!:W;C-q~[4q:m:CN"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="-Giqx@Z#A2B+cib?EYz4"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="n6pH@{CE8)MhcYVE`DHm"><value name="pause"><shadow type="timePicker" id="M7(S^$DHP/$+;_H;/EWX"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
